@@ -31,15 +31,15 @@
 
 
 
-1.Овладеть навыком уверенным пользования Гитом и Гитхабом 
+1. Овладеть уверенным навыком пользования Гитом и Гитхабом 
 
 
 
-2.Изучить Глубже Кибербезопасность
+2. Изучить Глубже Кибербезопасность
 
 
 
-3.Начать создавать проекты самостоятельно
+3. Начать создавать проекты самостоятельно
 
 
 
@@ -49,15 +49,15 @@
 
 
 
-\-\[GitHub](https://github.com)
+- [GitHub](https://github.com)
 
 
 
-\-\[Markdown Guide](https://www.markdownguide.org)
+- [Markdown Guide](https://www.markdownguide.org)
 
 
 
-\-\[Git Documentation](https://git-scm.com/doc)
+- [Git Documentation](https://git-scm.com/doc)
 
 
 
